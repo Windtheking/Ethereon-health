@@ -38,7 +38,7 @@ export function buttonListenerBranch() {
                 </div>
                 <div class="section" id="rusia">
                     Moscow, Rusia
-                    <img src="./public/moscow.jpg" alt="" id="moscow_image">
+                    <img src="moscow.jpg" alt="" id="moscow_image">
                     <ol>
                         <li>Masters in marketing  Andres Almanza</li>
                         <li>Dr. Anastasia Volkov</li>
@@ -49,7 +49,7 @@ export function buttonListenerBranch() {
                 </div>
                 <div class="section" id="europe">
                     Belgium, Europe
-                    <img src="./public/belgium.jpeg" alt="" id="belgium_image">
+                    <img src="belgium.jpeg" alt="" id="belgium_image">
                     <ol>
                         <li>Dr. Elise Verhaegen</li>
                         <li>Prof. Laurent De Smet</li>
@@ -103,10 +103,10 @@ export function buttonListenerAboutUs() {
             </h2>
             <div>
                 <div class="img_container" alt="">
-                <img src="./tylenol.png" alt="tylenol">
+                <img src="tylenol.png" alt="tylenol">
                 </div>
                 <div class="img_container">
-                <img src="./products.png" alt="grup_products_of_johson_and_johnson">
+                <img src="products.png" alt="grup_products_of_johson_and_johnson">
                 </div>
             </div>
 
@@ -171,7 +171,7 @@ export function buttonMainProduct() {
             <main id="products_main" style="display: flex; flex-direction: row; place-items:center ; height: 100%; width: 100vh; padding-top: 21vh; padding-bottom:5vh;">
                 <div class="card" style="width: 100%; height: 100%; margin: 1vh; padding-bottom:10px; box-shadow: 1px 3px 10px;">
                     
-                    <img src="./clean-wound.png" class="card-img-top" alt="clean Wound" style="height: 60%; width: 40%; margin: auto; padding-top: 2vh;">
+                    <img src="clean-wound.png" class="card-img-top" alt="clean Wound" style="height: 60%; width: 40%; margin: auto; padding-top: 2vh;">
                     <div class="card-body" style="display: flex; flex-direction: column; place-items: center; gap: 3vh; height:90%;">
                         <h5 class="card-title">Clean Wound</h5>
                             Meet the future of wound care. 
@@ -195,15 +195,15 @@ export function buttonMainProduct() {
                             <div id="carouselExample" class="carousel slide">
                                 <div class="carousel-inner">
                                     <div class="carousel-item active" style="place-items: center;" >
-                                        <img src="./hydropatch.png" class="d-block" style="width:60%; height: 100%;" alt="...">
+                                        <img src="hydropatch.png" class="d-block" style="width:60%; height: 100%;" alt="...">
                                         <i>Hydration that heals from within.</i>
                                     </div>
                                     <div class="carousel-item" style="place-items: center;">
-                                        <img src="./Smartapp.png" class="d-block" style="width:60%; height: 100%;" alt="...">
+                                        <img src="Smartapp.png" class="d-block" style="width:60%; height: 100%;" alt="...">
                                         <i>Your wound care, always in hand.</i>
                                     </div>
                                     <div class="carousel-item" style="place-items: center;">
-                                        <img src="./spraycare.png" class="d-block" style="width:60%; height: 100%;" alt="...">
+                                        <img src="spraycare.png" class="d-block" style="width:60%; height: 100%;" alt="...">
                                         <i>Protection in every spray.</i>
                                     </div>
                                 </div>

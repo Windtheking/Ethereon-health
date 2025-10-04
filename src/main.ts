@@ -34,10 +34,10 @@ document.querySelector("body")!.innerHTML = `
       </h2>
       <div>
         <div class="img_container" alt="">
-          <img src="./tylenol.png" alt="tylenol">
+          <img src="tylenol.png" alt="tylenol">
         </div>
         <div class="img_container">
-          <img src="./products.png" alt="grup_products_of_johson_and_johnson">
+          <img src="products.png" alt="grup_products_of_johson_and_johnson">
         </div>
       </div>
 
