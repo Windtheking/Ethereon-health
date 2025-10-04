@@ -19,8 +19,6 @@ dist
 dist-ssr
 *.local
 
-# TypeScript configuration (ignore if setup is local-only)
-tsconfig.json
 
 # Editor directories and files
 .vscode/*
