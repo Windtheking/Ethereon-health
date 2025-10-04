@@ -1,8 +1,9 @@
+# Git
+.gitignore
+
 # JSON
 package-lock.json
 
-# Git
-.gitignore
 
 # Logs
 logs
