@@ -2,7 +2,7 @@ export function buttonListenerBranch() {
     document.getElementById("branches")?.addEventListener("click", () => {
         document.querySelector("body")!.innerHTML = `
         <header>
-            <h1>Jhonson and Jhonson</h1>
+            <h1>Ethereon Health</h1>
             <ul>
                 <li id="about">
                     <p class="list_point">about us</p>
@@ -77,7 +77,7 @@ export function buttonListenerAboutUs() {
     document.getElementById("about")?.addEventListener("click", () => {
         document.querySelector("body")!.innerHTML = `
         <header >
-            <h1>Jhonson and Jhonson</h1>
+            <h1>Ethereon Health</h1>
             <ul>
             <li id="about">
                 <p class="list_point" >about us</p>
@@ -112,15 +112,14 @@ export function buttonListenerAboutUs() {
 
             </aside>
             <div id="about_us_div">
-            <h2>ABOUT US</h2>
-            <p>
-                Johnson & Johnson is a global leader in healthcare, dedicated to improving the well-being of people worldwide
-                for over a century. We focus on developing innovative medical devices, pharmaceuticals, and consumer health
-                products that enhance everyday lives. Our commitment to science and compassion drives us to create trusted
-                solutions for patients and families. With operations in more than 60 countries, we aim to make healthcare
-                accessible, effective, and sustainable. At Johnson & Johnson, we believe that caring for the world means making
-                a lasting difference in every community we serve.
-            </p>
+                <h2>ABOUT US</h2>
+                <p>
+                    At Ethereon Health, we are honored to collaborate with Johnson & Johnson in shaping the future of wound care through the CleanWound™ line. 
+                    Guided by innovation and precision, we merge Johnson & Johnson’s trusted medical legacy with our vision of fast, precise, technology-driven healing. 
+                    Together, we’ve created smarter, cleaner, and more human-centered solutions that empower both patients and professionals. 
+                    From the CleanWound™ device to HydroPatch, SprayCare, and SmartApp, our partnership reflects one shared purpose — to elevate healing beyond boundaries.
+                    Because the only limit is the sky.
+                </p>
             </div>
             <div id="main_office_div">
             <h2>Main office</h2>
@@ -149,7 +148,7 @@ export function buttonMainProduct() {
     document.getElementById("main")?.addEventListener("click", () => {
         document.querySelector("body")!.innerHTML = `
         <header style="position: absolute;">
-            <h1>Jhonson and Jhonson</h1>
+            <h1>Ethereon Health</h1>
             <ul>
             <li id="about">
                 <p class="list_point" >about us</p>
@@ -172,7 +171,7 @@ export function buttonMainProduct() {
             <main id="products_main" style="display: flex; flex-direction: row; place-items:center ; height: 100%; width: 100vh; padding-top: 21vh; padding-bottom:5vh;">
                 <div class="card" style="width: 100%; height: 100%; margin: 1vh; padding-bottom:10px; box-shadow: 1px 3px 10px;">
                     
-                    <img src="/public/clean wound.png" class="card-img-top" alt="clean Wound" style="height: 60%; width: 40%; margin: auto; padding-top: 2vh;">
+                    <img src="./clean-wound.png" class="card-img-top" alt="clean Wound" style="height: 60%; width: 40%; margin: auto; padding-top: 2vh;">
                     <div class="card-body" style="display: flex; flex-direction: column; place-items: center; gap: 3vh; height:90%;">
                         <h5 class="card-title">Clean Wound</h5>
                             Meet the future of wound care. 
@@ -196,15 +195,15 @@ export function buttonMainProduct() {
                             <div id="carouselExample" class="carousel slide">
                                 <div class="carousel-inner">
                                     <div class="carousel-item active" style="place-items: center;" >
-                                        <img src="public/hydropatch.png" class="d-block" style="width:60%; height: 100%;" alt="...">
+                                        <img src="./hydropatch.png" class="d-block" style="width:60%; height: 100%;" alt="...">
                                         <i>Hydration that heals from within.</i>
                                     </div>
                                     <div class="carousel-item" style="place-items: center;">
-                                        <img src="public/Smartapp.png" class="d-block" style="width:60%; height: 100%;" alt="...">
+                                        <img src="./Smartapp.png" class="d-block" style="width:60%; height: 100%;" alt="...">
                                         <i>Your wound care, always in hand.</i>
                                     </div>
                                     <div class="carousel-item" style="place-items: center;">
-                                        <img src="public/spraycare.png" class="d-block" style="width:60%; height: 100%;" alt="...">
+                                        <img src="./spraycare.png" class="d-block" style="width:60%; height: 100%;" alt="...">
                                         <i>Protection in every spray.</i>
                                     </div>
                                 </div>
@@ -239,7 +238,7 @@ export function rawMaterialButton() {
     document.getElementById("raw")?.addEventListener("click", () => {
         document.querySelector("body")!.innerHTML = `
         <header style="position: absolute;">
-            <h1>Jhonson and Jhonson</h1>
+            <h1>Ethereon Health</h1>
             <ul>
             <li id="about">
                 <p class="list_point" >about us</p>
