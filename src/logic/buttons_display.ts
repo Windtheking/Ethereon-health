@@ -26,7 +26,7 @@ export function buttonListenerBranch() {
             <div id="branches_countries">
                 <div class="section" id="brazil">
                     Rio, Brazil
-                    <img src="./public/rio.jpg" alt="" id="rio_image">
+                    <img src="/public/rio.jpg" alt="" id="rio_image">
                     <ol>
                         <li>Bachelor Santiago, espcialized in security cybersecurity</li>
                         <li>Dr. Mariana dos Santos</li>
